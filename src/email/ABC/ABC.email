@@ -1,0 +1,19 @@
+<messaging:emailTemplate subject="Hello World" recipientType="Contact" relatedToType="Account">
+<messaging:htmlEmailBody >
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="PRAGMA" content="NO-CACHE" />
+    <meta http-equiv="Expires" content="Mon, 01 Jan 1990 12:00:00 GMT" />
+    <meta content="width=device-width,initial-scale=1, maximum-scale=1" name="viewport" />
+    <title>Test</title>
+</head>
+<body>
+   Hi
+</body>
+</html>
+</messaging:htmlEmailBody>
+<messaging:plainTextEmailBody >
+   Hi
+</messaging:plainTextEmailBody>
+</messaging:emailTemplate>
