@@ -1,0 +1,11 @@
+<apex:page sidebar="false" showHeader="false" standardStylesheets="false"  standardController="Account" tabStyle="Account">
+    Current subscriptions:
+    <table>
+        <tr>
+            <th>Subscription Type</th>
+            <th>Start date</th>
+            <th>End date</th>
+        </tr>
+    </table>
+    <a href="/order/">Order new subscription</a>
+</apex:page>
