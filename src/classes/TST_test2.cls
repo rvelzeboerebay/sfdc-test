@@ -1,7 +1,7 @@
 @isTest
 private class TST_test2 {
     @isTest
-    public static testEmpty() {
+    static void testEmpty() {
            //new comment
         String hello = 'Hello Git';
         //sldkjfsldkfj
