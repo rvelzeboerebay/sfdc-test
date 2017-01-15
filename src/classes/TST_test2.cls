@@ -4,6 +4,7 @@ private class TST_test2 {
     static void testEmpty() {
            //new comment
         String hello = 'Hello Git';
+        test2 obj = new test2();
         //sldkjfsldkfj
         //kjbkjkjkjh
         //ghtffghf

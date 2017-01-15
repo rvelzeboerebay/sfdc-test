@@ -1,7 +1,8 @@
 public class test1 {
     public test1() {
            //new comment
-        String hello = 'Hello Git';
+        String hello = 'Hello Git updated';
+        
         //sldkjfsldkfj
         //kjbkjkjkjh
         //ghtffghf

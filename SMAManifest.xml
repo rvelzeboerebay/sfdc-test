@@ -3,6 +3,9 @@
     <mappings>
         <class>test1</class>
         <tests>TST_test1</tests>
+    </mappings>
+    <mappings>
+        <class>test2</class>
         <tests>TST_test2</tests>
     </mappings>
 </Config>
